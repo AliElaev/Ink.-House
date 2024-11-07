@@ -244,7 +244,7 @@ body {
    font-size: 40px;
    font-weight: 500;
    line-height: 1;
-   background: url("../images/icons/Star.svg") 0 0 no-repeat;
+   background: url("Star.svg") 0 0 no-repeat;
    padding-left: 90px;
 }
 .promo__text {
